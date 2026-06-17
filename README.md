@@ -2,6 +2,7 @@
 
 **Course:** Machine Learning for Materials Science | Connecticut College  
 **Author:** Dylan Field | May 2026
+**Format:** Jupyter Notebook File (Using Python)
 
 ## Overview
 
